@@ -16,7 +16,6 @@ logs/
 
 # Arquivos de dados grandes (por exemplo, datasets)
 # data/
-*.zip
 *.tar.gz
 
 # Arquivos gerados pelos notebooks Jupyter
